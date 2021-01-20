@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning GetX State Management
 - 🤔 I’m looking for help with Flutter and Dart
 - 💬 Ask me about Flutter and Dart
 
