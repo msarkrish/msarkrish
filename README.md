@@ -15,6 +15,8 @@
 
 [![MSARKrish's Github Stats](https://github-readme-stats.vercel.app/api?username=msarkrish&count_private=true&theme=default&show_icons=true)](https://github.com/msarkrish)
 
+[![Krishnakumar R StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6263015)](https://stackoverflow.com/users/6263015/msarkrish)
+
 
 <!--
 **msarkrish/msarkrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
