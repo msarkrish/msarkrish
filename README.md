@@ -1,12 +1,20 @@
-### Hey! I'm Krishnakumar Ramachandran. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Krishnakumar Ramachandran</h1>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 - 🔭 I’m currently working on Flutter projects
 - 👯 I’m looking to collaborate on Flutter open-source projects
 - 🤔 I’m looking for help with Flutter and Dart
 - 💬 Ask me about Flutter and Dart
+- 📫 How to reach me rkrishnakumar1997@gmail.com
 
-[![Twitter Badge](https://img.shields.io/badge/-@MSARKrish-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSARKrish)](https://twitter.com/MSARKrish)
-[![Linkedin Badge](https://img.shields.io/badge/-Krishnakumar_Ramachandran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnakumar-ramachandran-701925108)](https://www.linkedin.com/in/krishnakumar-ramachandran-701925108/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/msarkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msarkrish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/msarkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msarkrish" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6263015/msarkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6263015/msarkrish" height="30" width="40" /></a>
+<a href="https://medium.com/@msarkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@msarkrish" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/msarkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msarkrish" height="30" width="40" /></a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github,stackoverflow,androidstudio,vscode)](https://skillicons.dev)
 
