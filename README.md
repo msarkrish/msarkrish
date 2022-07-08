@@ -16,7 +16,12 @@
 <a href="https://www.hackerrank.com/msarkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msarkrish" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github,stackoverflow,androidstudio,vscode)](https://skillicons.dev)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/MSARKrish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/MSARKrish" /></a></p><br><br>
 
 ### Github Stats
 
