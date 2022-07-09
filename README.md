@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github,stackoverflow,androidstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,kotlin,firebase,git,github,stackoverflow,androidstudio,vscode)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/MSARKrish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/MSARKrish" /></a></p><br><br>
